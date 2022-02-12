@@ -9,12 +9,12 @@
 ## 2. Установка GIT
 Загружаем последнию версию GIT с https://git-scm.com/downloads
 
-## Настройка GIT
+## 3.Настройка GIT
 Пр первом использовании необходимо представиться.Для это нужно ввести в терминале две команды:
 ```
 git config --global user.name Ваше имя
 git config --global user.email email@example.com
 ```
 
-## 3. Работа с файлом в **VisualStudioCode**
+## 4. Работа с файлом в **VisualStudioCode**
 
