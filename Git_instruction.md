@@ -15,3 +15,6 @@
 git config --global user.name Ваше имя
 git config --global user.email email@example.com
 ```
+
+## 3. Работа с файлом в **VisualStudioCode**
+
