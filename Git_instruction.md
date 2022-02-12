@@ -1,4 +1,4 @@
-![Dessert](Desert.jpg)
+![Git](12.jpg) ![Geek](13.png)
 # Работа с GIT 
 
 ## 1. Проверка установленного GIT
