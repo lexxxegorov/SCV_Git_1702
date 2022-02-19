@@ -39,7 +39,7 @@ git config --global user.email email@example.com
 `git commit -m "Комменатрий"`
 
 
- `git add` и `git commit` можно объединить в одну команду - `git commit -am "Комментарий"`
+ `git add` и `git commit` можно объединить в одну команду - `git commit -am "Комментарий"` - объединять команды можно, только после изначального добавления файла к отслеживанию командой `git add`
 
  ```
  У команды git add есть две функции.
